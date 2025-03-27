@@ -4,7 +4,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I have seven years of experience focused on creating high-quality, maintainable, and accessible web applications. My passion lies in delivering products that not only meet user needs but also provide outstanding user experiences through performance optimization, accessibility, and intuitive design.
 
@@ -40,6 +40,8 @@ I’m driven to collaborate on impactful projects where I can leverage my skills
 
 - **Tools** Lighthouse, Performance Profiling, Browser DevTools
 - **Techniques** : Accessibility Audits, Localisation(i18n)
+
+---
 
 ## ✨ Fun Fact
 
